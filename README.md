@@ -17,7 +17,7 @@ This guideline pursues the objective of spotlighting techniques, methods and too
 
 ### How?
 
-**It’s a guideline, neither a strict process to follow nor vague recommendations. It’s a compilation of several topics that will help every engineering team daily.** 
+**It’s a guideline, neither a strict process to follow nor vague recommendations. It’s a compilation of several topics that will help software engineering teams daily.** 
 
 
 
@@ -121,19 +121,24 @@ Team members are committed to providing feedback as often as possible: each pull
 ### 3.6 Self-demanding
 Team members will be self-demanding. We don't care what other teammates do and want to ensure we’re doing our best every week.
 
-> Golden rule: `We’ll track our delivery in our own diary, and we’ll compare it against our career ladder to understand if we’re performing as the company expects. We'll do this check weekly`.
+> Golden rule: `We’ll track our delivery in our own diary, and we’ll compare it against our career ladder to understand if we’re performing as the company expects. We'll do this check weekly. Also, it will be as input document for performance reviews`.
+
+### 3.7 Performance reviews
+The team will enable at least two performance reviews per year. The final purpose is to compare an individual's commitment and delivery against the career ladder. Because we know every team member is unique and different, we aren't going to compare people to each other. The line manager will manage the performance review. 
+
+> Golden rule: `People's performance is healthy and aligned with the career ladder for their professional level`.
    
-### 3.7 Invest in ourselves
+### 3.8 Invest in ourselves
 We believe in ourselves. We want to improve ourselves as human beings, engineers and employees. We’ll manage our careers by ourselves, without excuses, proactively. The company will provide context, tools and time, but only we are in charge of using it wisely.
  
 > Golden rule: `we’ll invest at least four h every week to learn new things and sharpen hard or soft skills`. 
 
-### 3.8 Exit rewards 
+### 3.9 Exit rewards 
 For the individuals that aren’t aligned with team methods, engineering values, business goals or their performance isn’t aligned with the career ladder, team leaders will provide an honoured departure. That decision will be communicated to other team members openly.
 
 > Golden rule: `layoff is an opportunity for both team and leavers to learn from our mistakes`.
 
-### 3.9 Meetings are for listening 
+### 3.10 Meetings are for listening 
 We’re joining meetings to listen to the others first.  After understanding our mates, we will speak. Our thoughts and vision will be written down in a document and shared in advance with meeting attendees. If necessary, we’ll invest some minutes reading the document(s) at the beginning of the meeting. 
 
 ---
