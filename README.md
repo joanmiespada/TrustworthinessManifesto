@@ -1,0 +1,2 @@
+# TrustworthinessManifesto
+Software Engineering Team Trustworthiness Manifesto
