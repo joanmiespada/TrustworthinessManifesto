@@ -1,23 +1,23 @@
 
 # Software Engineering Trustworthiness Manifesto
 
-The purpose of this manifesto is to describe the main areas where a software engineering team can rely on creating a trustful environment with all teammates and stakeholders. 
+The purpose of this manifesto is to describe the main areas where a software engineering team can rely on **creating a trustful environment with all teammates and stakeholders**. 
 
 ### Why?
 
-Trust is essential for software engineering teams' success. Without trust, it is really painful to reach team achievements. The team will have neither commitment nor results nor friendship. Indeed, it is almost impossible to build anything to be delivered in production.
+Trust is essential for software engineering teams' success. Without trust, it is harrowing to reach team achievements. So, the team will have neither commitment nor results nor friendship. Indeed, it is almost impossible to build anything to be delivered in production.
 
-Trust is our team's cornerstone and the first thing to lose. 
+> Trust is our team's cornerstone and the first thing to lose. 
 
 ### What? 
 
 This guideline pursues the objective of spotlighting techniques, methods and tools to keep the trust as high as possible during the software engineering team journey. 
 
-Trust is something that needs to be fed daily. Not for what we’re saying but for what we’re doing.  
+> Trust is something that needs to be fed daily. Not for what we’re saying but for what we’re doing.  
 
 ### How?
 
-It’s a guideline, neither a strict process to follow nor vague recommendations. It’s a compilation of several topics that will help every engineering team daily. 
+**It’s a guideline, neither a strict process to follow nor vague recommendations. It’s a compilation of several topics that will help every engineering team daily.** 
 
 
 
