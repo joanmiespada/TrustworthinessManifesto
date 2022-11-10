@@ -41,7 +41,7 @@ We aren’t front-end engineers creating a web site only or backend engineers bu
 
 > Golden Rule: `Let’s define our job by the goal we pursue, neither for our knowledge, position, or role inside the team`.  
 
-### 1.5 hortcuts are pitfalls
+### 1.5 Shortcuts are pitfalls
 Every shortcut is an opportunity to break our product now or in the immediate future. In software engineering, shortcuts create tech debt, which in its turn will become slowing down our delivery capacity shortly.
 
 ---
