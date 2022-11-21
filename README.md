@@ -7,18 +7,17 @@ The purpose of this manifesto is to describe the main areas where a software eng
 
 Trust is essential for software engineering teams' success. Without trust, it is harrowing to reach team achievements. So, the team will have neither commitment nor results nor friendship. Indeed, it is almost impossible to build anything to be delivered in production.
 
-> Trust is our team's cornerstone and the first thing to lose. 
+> Golden Rule: `Trust is our team's cornerstone and the first thing to lose`. 
 
 ### What? 
 
 This guideline pursues the objective of spotlighting techniques, methods and tools to keep the trust as high as possible during the software engineering team journey. 
 
-> Trust is something that needs to be fed daily. Not for what we’re saying but for what we’re doing.  
+> Golden Rule: `Trust is something that needs to be fed daily, not for what we’re saying but for what we’re doing`.  
 
 ### How?
 
 **It’s a guideline, neither a strict process to follow nor vague recommendations. It’s a compilation of several topics that will help software engineering teams daily.** 
-
 
 
 # Chapters
@@ -109,19 +108,19 @@ Who always wins is the team, never the individuals. When a feature runs in produ
 As engineers, our impact is sized by our level/grade in the team. The career ladder is a unique document describing each level's expected impact/outcome for engineers/employees. This document is open to be improved for every employee after each performance review cycle. 
 
 ### 3.4 Meritocracy
-The team is only as strong as its weakest team member. The willingness to learn and contribute will prevail above the results, but always is mandatory evolving and moving forward. We’ve enabled two tools for that purpose: feedback and self-demanding.  
+The team is only as strong as its weakest team member. The willingness to learn and contribute will prevail above the results, **but always is mandatory evolving and moving forward**. We’ve enabled two tools for that purpose: feedback and self-demanding.  
    
-> Golden rule: `use feedback to reward outstanding people's performance and poor spotlight performance`. 
+> Golden rule: `We're using the feedback to reward outstanding people's performance and spotlighting poor performance`. 
 
 ### 3.5 Feedback as often as possible 
-Team members are committed to providing feedback as often as possible: each pull request, monthly and quarterly reviews and whatever documentation be created (e.g. RFCs, tech reviews, surveys and so on). Feedback will be honest, time-framed, based on evidence, emphasising the outstanding actions/results as rewards and spotlighting the weakness as a new way for new upcoming training.
+Team members are committed to providing feedback as often as possible: each pull request, monthly and quarterly reviews and whatever documentation be created (e.g. RFCs, tech reviews, surveys and so on). **Feedback will be honest, time-framed, based on evidence, emphasising the outstanding actions/results as rewards and spotlighting the weakness as a new way for new upcoming training**.
 
 > Golden rule: `Give feedback in the same way you’d like your teammates to give to you`.        
 
 ### 3.6 Self-demanding
-Team members will be self-demanding. We don't care what other teammates do and want to ensure we’re doing our best every week.
+Team members will be self-demanding. We don't care what other teammates do and want to ensure we’re doing our best every week. **We don't accept vanilla people or vanilla habits**. 
 
-> Golden rule: `We’ll track our delivery in our own diary, and we’ll compare it against our career ladder to understand if we’re performing as the company expects. We'll do this check weekly. Also, it will be as input document for performance reviews`.
+> Golden rule: `We’ll track our delivery in our own diary, and we’ll compare it against our career ladder to understand if we’re performing as the company expects. We'll do this check weekly. Also, it will be as input document for performance reviews' self-assessment`.
 
 ### 3.7 Performance reviews
 The team will enable at least two performance reviews per year. The final purpose is to compare an individual's commitment and delivery against the career ladder. Because we know every team member is unique and different, we aren't going to compare people to each other. The line manager will manage the performance review. 
@@ -134,12 +133,12 @@ We believe in ourselves. We want to improve ourselves as human beings, engineers
 > Golden rule: `we’ll invest at least four h every week to learn new things and sharpen hard or soft skills`. 
 
 ### 3.9 Exit rewards 
-For the individuals that aren’t aligned with team methods, engineering values, business goals or their performance isn’t aligned with the career ladder, team leaders will provide an honoured departure. That decision will be communicated to other team members openly.
+For the individuals that aren’t aligned with team methods, engineering values, business goals or their performance aren’t aligned with the career ladder, team leaders will provide an honoured and soft departure. That decision will be communicated to other team members openly and all teammates will help him/her to find a new job.
 
-> Golden rule: `layoff is an opportunity for both team and leavers to learn from our mistakes`.
+> Golden rule: `every layoff is an opportunity for both team and leavers to learn from our mistakes`.
 
 ### 3.10 Meetings are for listening 
-We’re joining meetings to listen to the others first.  After understanding our mates, we will speak. Our thoughts and vision will be written down in a document and shared in advance with meeting attendees. If necessary, we’ll invest some minutes reading the document(s) at the beginning of the meeting. 
+**We’re joining meetings to listen to the others first**. After understanding our mates, we will share our thoughts openly. Our thoughts and vision will be written down in a document and shared in advance with meeting attendees. If necessary, we’ll invest some minutes reading the document(s) at the beginning of the meeting. 
 
 ---
 
@@ -177,9 +176,9 @@ Agile doesn’t mean working with ad-hoc tasks. Agile defines a set of ceremonie
 > Golden rules: `We want to compare ourselves versus ourselves quarter by quarter`.
 
 ### 5.2 DevOps mindset
-We want to release our code to production: as fast as possible, as often as possible, as secure as possible and seamlessly.
+We want to release our code to production as fast as possible, as often as possible, as secure as possible and seamlessly.
 
-> Golden rules: `enable automatisation in each engineering step. We invest in automatisation as an investment, never as a cost`. 
+> Golden rules: `enable automatisation in each engineering step. We focus on automatisation as an investment, never as a cost`. 
 
 ### 5.3 Freedom to choose
 Our team is free to make our own decisions and enable our processes and methodologies wherever we don't break this manifesto.
