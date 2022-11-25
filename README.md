@@ -67,7 +67,7 @@ Regardless of level or seniority, all team members are in charge of taking the n
 Each team has two leaders, a Project Manager (PM) and an Engineering Manager (EM), aka double-hat. Both are at the same leadership level and sense of ownership. PM is focused on product rationale, and EM is focused on engineering solutions and people management. If the team can’t reach a consensus, they will be the last line of decisions. They are in charge of unblocking the team as soon as possible.
 
 ### 2.5 Closest to reality
-Decisions must be as close to reality as possible. When a decision is escalated, it will be procrastinated, creating an overload and attrition, and there isn’t a guarantee that it will be better than the one taken by the team members. 
+Decisions must be as close to reality as possible. When a decision is escalated, it will be procrastinated, creating an overload and attrition, and there isn’t a guarantee that it will be better than the one taken by the team members. When escalating decisions we're losing our competitive advantatge. 
 
 > Golden Rule: `avoid escalating decisions`. 
 
@@ -138,7 +138,7 @@ For the individuals that aren’t aligned with team methods, engineering values,
 > Golden rule: `every layoff is an opportunity for both team and leavers to learn from our mistakes`.
 
 ### 3.10 Meetings are for listening 
-**We’re joining meetings to listen to the others first**. After understanding our mates, we will share our thoughts openly. Our thoughts and vision will be written down in a document and shared in advance with meeting attendees. If necessary, we’ll invest some minutes reading the document(s) at the beginning of the meeting. 
+We want to minimise meetings; when it isn't possible to find a solution asynchronously, we schedule a meeting. But, **we’re joining meetings to listen to the others first**. After understanding our mates, we will share our thoughts openly. Our thoughts and vision will be written down in a document and shared in advance with meeting attendees. If necessary, we’ll invest some minutes reading the document(s) at the beginning of the meeting. 
 
 ---
 
@@ -196,7 +196,7 @@ Our engineering team will shape a matrix where we will measure and track our ong
 Every six months, we’ll measure our engagement through an anonymous survey about soft topics such as happiness and health. 
 
 ### 5.8 SLOs
-We’ll define a set of SLOs to understand if our system and team processes are performing as expected. If the SLO is breached, then the team will break the team's roadmap to fix this issue asap. SLOs such as critical bugs in production, postmortem action items, stability thresholds, OOH support, CI/CD pipeline delays/breaks, etc.
+We’ll define a set of SLOs to understand if our systems and team processes are performing as expected. If the SLO is breached, then the team will break the team's roadmap to fix this issue asap. SLOs such as critical bugs in production, postmortem action items, stability thresholds, OOH support, CI/CD pipeline delays/breaks, etc.
 
 ### 5.9 80-20 rule
 The team’s sprint capacity will be split between product development and engineering sanit. 80% for product development and 20% for engineering tasks (tasks non-driven by the PM).
@@ -216,7 +216,7 @@ Any piece of code in Pull-request ready to be reviewed must apply the engineerin
 From staging to production environment must be an automatic and transparent process for product engineering team members. It means the team’s border is the staging environment (backend) or Beta (apps). Team target must seamlessly release their features in staging without blocking any pipelines and behind a feature toggle.
 
 ### 5.14 A/B testing
-Perform o no an A/B is a product decision that must be transparent to product engineering teams. A/B testing will be enabled through feature toggles by the product folks.
+Perform o no an A/B is a product decision that must be transparent to product engineering teams. A/B testing will be enabled through feature toggles by the product folks. They are expensive in terms of time, so we'll be diligent when using them. 
 
 ### 5.15 Branching
 Engineers will merge plus rebase to master branch as often as possible. Whenever possible, every day. We must minimise merge conflicts.       
@@ -228,6 +228,31 @@ Wherever possible manual QA tests will be forbidden. Whenever possible, automati
 We shift left the security in our solutions to foresee potential issues in advance. We will gather feedback from our company’s security team/champions proactively. Security has no excuses and is at the top of product decisions.
 
 ---
+
+# List of documents to be completed
+
+* Backend guidelines and principles
+* Mobile guideline and principles
+    * iOS specific details
+    * Android specific details
+* Web guidelines and principles
+* Codereview guideline (even for each platform)
+* Postmortem process and their SLOs
+* Bug classification and resolutions SLOs
+* RFC process and feedback request
+* PRD process and feedback request
+* OOH support scope/expectations and scalation policy
+* Teams: members, scope and impact
+* Ownership: who owns what
+* War room principles
+* Meeting's policy
+* Promotion process
+* OKRs, quarterly goals and sprint goals guideline
+* Team performance: how team will be measured
+* Performance review: principles, guidelines and process
+* Feedback's culture: guideline and principles 
+
+
 
 **Definitions** 
 
