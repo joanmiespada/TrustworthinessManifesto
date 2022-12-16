@@ -206,7 +206,7 @@ Code reviews are the cornerstone of an engineering team. We use this time to pro
 
 > Golden Rule: `Reviewing PRs is crucial to unblock our teammates' delivery`.
 
-### 5.11 E2E impact
+### 5.11 E2E impact and ownership
 Engineers will be in charge of releasing a feature to production end-to-end without any handover to other teammates or departments (QA, platform or 3rd parties).      
    
 ### 5.12 Engineering best practices
@@ -215,16 +215,19 @@ Any piece of code in Pull-request ready to be reviewed must apply the engineerin
 ### 5.13 Release to Production
 From staging to production environment must be an automatic and transparent process for product engineering team members. It means the team’s border is the staging environment (backend) or Beta (apps). Team target must seamlessly release their features in staging without blocking any pipelines and behind a feature toggle.
 
-### 5.14 A/B testing
+### 5.14 Code coverage
+Invariably we'll release our features with proper code coverage. Actually, we want only run tests to ensure the new features work correctly in local or stage environments. Less than 80% code coverage is forbidden.
+
+### 5.15 A/B testing
 Perform o no an A/B is a product decision that must be transparent to product engineering teams. A/B testing will be enabled through feature toggles by the product folks. They are expensive in terms of time, so we'll be diligent when using them. 
 
-### 5.15 Branching
+### 5.16 Branching
 Engineers will merge plus rebase to master branch as often as possible. Whenever possible, every day. We must minimise merge conflicts.       
 
-### 5.16 QA testing
+### 5.17 QA testing
 Wherever possible manual QA tests will be forbidden. Whenever possible, automatisation tests will be implemented after the A/B test finishes. All QA tests will happen in the test environment(s) and independently of our release process. 
  
-### 5.17 Security
+### 5.18 Security
 We shift left the security in our solutions to foresee potential issues in advance. We will gather feedback from our company’s security team/champions proactively. Security has no excuses and is at the top of product decisions.
 
 ---
