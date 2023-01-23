@@ -108,9 +108,14 @@ Who always wins is the team, never the individuals. When a feature runs in produ
 As engineers, our impact is sized by our level/grade in the team. The career ladder is a unique document describing each level's expected impact/outcome for engineers/employees. This document is open to be improved for every employee after each performance review cycle. 
 
 ### 3.4 Meritocracy
-The team is only as strong as its weakest team member. The willingness to learn and contribute will prevail above the results, **but always is mandatory evolving and moving forward**. We’ve enabled two tools for that purpose: feedback and self-demanding.  
+The team is only as strong as its weakest team member. The willingness to learn and contribute will prevail above the results, **but always is mandatory evolving and moving forward**. We’ve enabled two tools for that purpose: feedback and self-demanding. It isn’t possible to reward someone when the team is weak. Team success prevails over individual success.  
    
 > Golden rule: `We're using the feedback to reward outstanding people's performance and spotlighting poor performance`. 
+
+### 3.4.1 No heroes
+If someone is doing an extra effort is because there is something to be improved in our tools/processes/practices. It's a sympthom of our weakness and those efforts won't be rewarded.
+
+> Golden rule: `Focus on the root causes, not on the consequences`.
 
 ### 3.5 Feedback as often as possible 
 Team members are committed to providing feedback as often as possible: each pull request, monthly and quarterly reviews and whatever documentation be created (e.g. RFCs, tech reviews, surveys and so on). **Feedback will be honest, time-framed, based on evidence, emphasising the outstanding actions/results as rewards and spotlighting the weakness as a new way for new upcoming training**.
@@ -173,12 +178,17 @@ All team members are open with what, how and why we are doing. Even during our t
 ### 5.1 Agile means agile
 Agile doesn’t mean working with ad-hoc tasks. Agile defines a set of ceremonies, steps, outputs and deliveries. We’re committed to respecting agile principles and best practices consistently. We want to measure our team performance based on metrics/data and without comparing it with other teams.
 
-> Golden rules: `We want to compare ourselves versus ourselves quarter by quarter`.
+> Golden rules: `We want to compare ourselves versus ourselves sprint by sprint, quarter by quarter`.
 
 ### 5.2 DevOps mindset
-We want to release our code to production as fast as possible, as often as possible, as secure as possible and seamlessly.
+We want to release our code to production as fast as possible, as often as possible, as secure as possible and seamlessly. We don´t accept manual or repetitive tasks.  
 
 > Golden rules: `enable automatisation in each engineering step. We focus on automatisation as an investment, never as a cost`. 
+
+### 5.2.1 Site reliability engineering
+Our software implements tools and techniques to allow us to understand how the system is performing in production in real-time. We want to avoid system degradation due to complexity.
+
+> Golden rules: `enable infrastructure, monitoring, alerting and metrics to track tech KPIs along the time`
 
 ### 5.3 Freedom to choose
 Our team is free to make our own decisions and enable our processes and methodologies wherever we don't break this manifesto.
