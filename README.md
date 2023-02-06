@@ -299,6 +299,7 @@ Topics to be covered for the document:
     * Out of Memory errors (OoM): must be caught and tracked. SLO: < 80% memory.   
     * Featured flags => all new features must be shipped behind a feature flag. 
 
+---
 
 **Definitions** 
 
@@ -317,7 +318,7 @@ Topics to be covered for the document:
 - SLO: https://en.wikipedia.org/wiki/Service-level_objective 
 - Devops: https://en.wikipedia.org/wiki/DevOps 
 
-
+---
 
 **License**
 
