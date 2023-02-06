@@ -244,11 +244,11 @@ We shift left the security in our solutions to foresee potential issues in advan
 
 # List of documents to be completed
 
-* Backend guidelines and principles
-* Mobile guideline and principles
+* Backend guidelines and principles (tech template)
+* Mobile guideline and principles (tech template)
     * iOS specific details
     * Android specific details
-* Web guidelines and principles
+* Web guidelines and principles (tech template)
 * Codereview guideline (even for each platform)
 * Postmortem process and their SLOs
 * Bug classification and resolutions SLOs
@@ -265,6 +265,39 @@ We shift left the security in our solutions to foresee potential issues in advan
 * Performance review: principles, guidelines and process
 * Feedback's culture: guideline and principles 
 
+
+## Example of tech template 
+
+Topics to be covered for the document:
+
+* Development
+    * Code style and linting: enabled. 
+    * Bootstrap local development environment: dockerised dependencies.
+    * Error codes definition (2xx, 3xx, ... 5xx ).
+    * Compilation timing (cached dependencies): < 30 seconds
+    * Pull request sizing: 
+        * Files changed: < 10
+        * Total lines changed: < 250
+    * Codeowners: enabled 
+* CI/CD pipeline
+    * Flaky test: 0 (they are forbidden).
+    * Tests: 
+        *  Unit tests: can be at most 1 second.
+        *  Integration tests: can't exceed 25 seconds.
+        *  e2e test or UI tests: Night build every 24h and async.  
+    * Bundling size: new code can't exceed 5% current size. 
+    * Code coverage: > 80%
+    * Infrastructure as code (all changes with infra must be scripted).
+    * Database changes scripted.
+    * Code documentation updates.        
+* Production
+    * Errors => SLO 99,9% error-free
+    * Latencies => SLO 99% requests below 200 ms
+        * Trend latencies => not growing more than 5% current response times. 
+    * Critical Bugs open => Resolution time SLO: 95% fixed in less than 5 minutes.
+    * Traceability => all code must be enabled tracing (XRay, DataDog, ... ).
+    * Out of Memory errors (OoM): must be caught and tracked. SLO: < 80% memory.   
+    * Featured flags => all new features must be shipped behind a feature flag. 
 
 
 **Definitions** 
